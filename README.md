@@ -1,4 +1,4 @@
-# cool_projects
+# Cool Project's Top News : 
 # Top News
 
 Top News is MVVM bases application which delivered you latest and hot pics news fro dummy purpose.
