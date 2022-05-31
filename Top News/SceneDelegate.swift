@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Good News
 //
-//  Created by H444235 on 03/02/22.
+//  Created by Rachit Sharma on 03/02/22.
 //
 
 import UIKit
